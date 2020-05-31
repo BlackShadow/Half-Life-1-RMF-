@@ -11,3 +11,5 @@ ALL RIGHTS OF MAPS GOES TO VALVE SOFTWARE.
 This project aims to  re-create original Half-Life maps from 2003 Half-Life map leak.
 
 Side Note: I don't recommend using original Valve Hammer Editor with original compilers. You may have unexpecetd results while compiling. Jackhammer recommended. Also lightning may look different since you're not going to use original Valve RAD compiler.
+
+Make sure compile maps with their .RAD file. If there's no .RAD file for the map, it doesn't need it.
