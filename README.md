@@ -8,8 +8,8 @@ IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE PLEASE DON’T DOWNLOAD OR USE 
 
 ALL RIGHTS OF MAPS GOES TO VALVE SOFTWARE.
 
-This project aims to  re-create original Half-Life maps from various sources.
+This project aims to recreate original Half-Life maps from various sources.
 
-Side Note: I don't recommend using original Valve Hammer Editor with original compilers. You may have unexpecetd results while compiling. Jackhammer is recommended. Also lightning may look different since you're not going to use original Valve RAD compiler.
+Side Note: I don't recommend using original Valve Hammer Editor with original compilers. You may have unexpected results while compiling. J.A.C.K Editor is recommended. Also lightning may look different since you're not going to use original Valve RAD compilers.
 
 Make sure compile maps with their .RAD file. If there's no .RAD file for the map, it doesn't need it.
