@@ -8,7 +8,7 @@ IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE PLEASE DON’T DOWNLOAD OR USE 
 
 All rights of the map sources goes to Valve Software
 
-# What is this project?
+# What is this project? 🚩
 
 This project basically aims to recreate original Half-Life map source files very close to the original.
 
