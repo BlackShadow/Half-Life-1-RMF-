@@ -14,7 +14,7 @@ This project basically aims to recreate original Half-Life map source files very
 
 # Small reminder 🔔
 
-I don't recommend using newer RAD compilers because lightning will be so much different than original game. You can find
+I don't recommend using unofficial RAD compilers because lightning will be so much different than original game. You can find
 Valve's original RAD compiler on QRAD folder in repository or Half-Life SDK.
 
 Make sure to compile maps with their .RAD file. If there's no .RAD file for the map, it doesn't need it.
