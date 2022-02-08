@@ -12,7 +12,7 @@ All rights of the map sources goes to Valve Software
 
 This project basically aims to recreate original Half-Life map source files very close to the original.
 
-# Small reminder :
+# Small reminder 🔔
 
 I don't recommend using newer RAD compilers because lightning will be so much different than original game. You can find
 Valve's original RAD compiler on QRAD folder in repository or Half-Life SDK.
