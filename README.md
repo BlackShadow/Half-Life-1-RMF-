@@ -22,7 +22,7 @@ Make sure to compile maps with .RAD file and final mode (Full VIS and Extra RAD)
 # Progress  🔋
 
 Half-Life:
-</pre>Singleplayer Maps: In Progress</pre>
+<pre>Singleplayer Maps: In Progress</pre>
 <pre> Multiplayer Maps: In Progress</pre>
 
 Other Mods: TBA
