@@ -25,5 +25,6 @@ Half-Life:
 <pre>Singleplayer Maps: In Progress</pre>
 <pre> Multiplayer Maps: In Progress</pre>
 
-Other Mods: TBA
+Other Mods:
+<pre>TBA</pre>
 
