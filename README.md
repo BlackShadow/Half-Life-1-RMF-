@@ -10,7 +10,7 @@ All rights of the map sources goes to Valve Software
 
 # What is this project? 🚩
 
-This project basically aims to recreate original Half-Life map source files very close to the original.
+This project basically aims to recreate original Half-Life map source files very close to the original. You shouldn't be expecting 1:1 similarities with actual source. Geometry and lightning may differ.
 
 # Small reminder 🔔
 
