@@ -22,8 +22,8 @@ Make sure to compile maps with .RAD file and final mode (Full VIS and Extra RAD)
 # Progress  🔋
 
 Half-Life:
-<pre>Singleplayer Maps: In Progress 11 of 103</pre>
-<pre> Multiplayer Maps: In Progress 3 of 12</pre>
+<pre>Singleplayer Maps: In Progress | 11 of 103</pre>
+<pre> Multiplayer Maps: In Progress | 3 of 12</pre>
 
 Other Mods:
 <pre>TBA</pre>
