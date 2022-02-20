@@ -26,5 +26,5 @@ Half-Life:
 <pre> Multiplayer Maps: In Progress | 3 of 12 ⌛</pre>
 
 Other Mods:
-<pre>TBA</pre>
+<pre>TBA ⌛</pre>
 
