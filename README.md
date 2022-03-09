@@ -27,7 +27,7 @@ Contributions are appricated! You can contribute by fixing bugs, inconsistencies
 
 Half-Life:
 <pre>Singleplayer Maps: In Progress | 11 of 103 ⌛</pre>
-<pre> Multiplayer Maps: In Progress | 3 of 12 ⌛</pre>
+<pre> Multiplayer Maps: In Progress | 4 of 12 ⌛</pre>
 
 Other Mods:
 <pre>TBA ⌛</pre>
