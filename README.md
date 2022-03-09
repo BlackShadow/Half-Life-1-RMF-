@@ -19,6 +19,10 @@ Valve's original RAD compiler on QRAD folder in repository or Half-Life SDK.
 
 Make sure to compile maps with .RAD file and final mode (Full VIS and Extra RAD). If there's no .RAD file for the map, it doesn't need it.
 
+# Contribution  🤝
+
+Contributions are appricated! You can contribute by fixing bugs, inconsistencies in map sources on the repository. If there's no RMF for a map, please do not submit RMF's. Wait me to do them.
+
 # Progress  🔋
 
 Half-Life:
