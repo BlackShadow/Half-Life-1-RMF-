@@ -20,7 +20,7 @@ Make sure to compile maps with .RAD file and final mode (Full VIS and Extra RAD)
 
 # Contribution  🤝
 
-Contributions are appricated! You can contribute by fixing bugs, inconsistencies in map sources on the repository. If there's no RMF for a map, please do not submit RMF's. Wait me to do them.
+Contributions are appricated! You can contribute by fixing bugs, inconsistencies in map sources on the repository. If there's no RMF for a map, please do not submit RMF's, wait me to do them.
 
 # Progress  🔋
 
